@@ -4,7 +4,7 @@ README
 
 ## **Welcome to Archefot!**
 
-**This is an open-source encryption tool I made (with a *little* help from Claude.ai)**
+**This is an open-source encryption tool I made**
 
 
 
