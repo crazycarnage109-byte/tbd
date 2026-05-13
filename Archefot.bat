@@ -1,9 +1,7 @@
 @echo off
 setlocal
 
-:: ============================================================
-::  ARCHEFOT CIPHER  -  Drag a .txt file onto this .bat
-:: ============================================================
+:: ARCHEFOT CIPHER  -  Drag a .txt file onto this .bat
 
 if "%~1"=="" (
     echo.
